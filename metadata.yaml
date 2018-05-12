@@ -1,0 +1,37 @@
+_repo: Questioni-internazionali_39469
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39469-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crispi, Francesco
+    birthdate: 1818
+    deathdate: 1901
+    gutenberg_agent_id: '37976'
+    url: http://www.gutenberg.org/2009/agents/37976
+    wikipedia: http://it.wikipedia.org/wiki/Francesco_Crispi
+  editor:
+    agent_name: Palamenghi-Crispi, Tommaso
+    alias: Palamenghi-Crispi, Thomas
+    birthdate: 1861
+    gutenberg_agent_id: '40035'
+    url: http://www.gutenberg.org/2009/agents/40035
+description: ''
+gutenberg_bookshelf: IT Scienze politiche
+gutenberg_issued: '2012-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39469'
+  lccn: '13008775'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Foreign relations -- 1870-1914'
+- !lcc 'DG'
+- !lcsh 'Eastern question'
+- !lcsh 'Africa -- Colonization'
+title: Questioni internazionali
+url: http://www.gutenberg.org/ebooks/39469
